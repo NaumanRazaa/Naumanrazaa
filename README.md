@@ -1,5 +1,10 @@
-## Hi there I am Nauman Raza
+# Hi 👋, I'm Nauman Raza
 
+### 🌐 Web Developer Student
+
+**Passionate Web Developer | Lifelong Learner | Building Modern Web Experiences**
+
+I'm a Web Developer Student with a strong interest in creating responsive, user-friendly, and scalable web applications. I enjoy turning ideas into real projects while continuously learning new technologies and improving my development skills. Every project is an opportunity to grow, solve problems, and write cleaner, better code.
 <!--
 **NaumanRazaa/Naumanrazaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
