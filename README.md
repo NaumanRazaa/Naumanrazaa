@@ -15,6 +15,14 @@
 - 🧠 Always learning, experimenting, and improving my skills through hands-on development.
 - 🤝 Open to collaboration, learning from others, and contributing to exciting projects.
 - 🎯 Goal: To become a skilled Full-Stack Developer and build impactful digital solutions.
+
+- 🎓 Web Developer Student with a passion for building modern and responsive web applications.
+- 💻 Enjoy creating clean, user-friendly, and interactive websites using the latest web technologies.
+- 🌱 Currently expanding my knowledge in full-stack development and exploring new frameworks.
+- 🚀 Love turning ideas into real-world projects that solve problems and improve user experiences.
+- 🧠 Always learning, experimenting, and improving my skills through hands-on development.
+- 🤝 Open to collaboration, learning from others, and contributing to exciting projects.
+- 🎯 Goal: To become a skilled Full-Stack Developer and build impactful digital solutions.
 <!--
 **NaumanRazaa/Naumanrazaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
